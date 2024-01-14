@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "14.0.4",
     "react": "^18",
+    "react-countup": "^6.5.0",
     "react-dom": "^18",
-    "next": "14.0.4"
+    "sharp": "^0.33.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
